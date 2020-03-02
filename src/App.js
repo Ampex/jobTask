@@ -32,7 +32,6 @@ const theme = createMuiTheme({
 
 class App extends Component {
   state = {
-    items: [...Array(100).keys()],
     list: [],
     value: '',
     sorted: [],
