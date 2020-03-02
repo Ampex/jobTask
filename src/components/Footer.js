@@ -12,7 +12,7 @@ const Footer = () => {
             <p>ul. Aleje Jerozolimskie 184 B</p>
             <p>02-486 Warszawa</p>
           </div>
-          <div>
+          <div style={{ marginTop: 30 }}>
             <p>sekretariat@miraculum.pl</p>
             <p>www.miraculum.pl</p>
           </div>
